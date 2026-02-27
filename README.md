@@ -60,7 +60,7 @@
 * 👯 I’m looking to collaborate on **open source projects**
 * 🤔 I’m looking for help with **startup applications and global development processes**
 * 💬 Ask me about **Python, Machine Learning, or Database Management**
-* 📫 How to reach me: **[Your Email]**
+* 📫 How to reach me: **[ch.chandrasekhar781@gmail.com]**
 * ⚡ Fun fact: **I am building a mobile application for agricultural crop sales**
 
 ---
