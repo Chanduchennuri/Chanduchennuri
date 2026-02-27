@@ -33,6 +33,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chanduchennuri)
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&height=100&lines=Hi,+I'm+Chandrasekhar!;Actively+looking+for+Internships...;Passionate+about+Open+Source!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&height=100&lines=Hi,+Interested+to+collab+and+learn+'Dm' me;Always+Open+to+explore+about+Open+Source!" alt="Typing Animation" />
 </div>
 
