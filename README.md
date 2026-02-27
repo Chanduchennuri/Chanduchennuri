@@ -1,4 +1,6 @@
-### About Me
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&height=100&lines=Hi,+I'm+Chandrasekhar!;Actively+looking+for+Internships...;Passionate+about+Open+Source!" alt="Typing Animation" />
+</div>### About Me
 👋 Hi! I'm **Chennuri Chandrasekhar**, a 3rd-year AIML student.
 🚀 Actively building scalable applications and exploring data systems.
 📚 Cybersecurity | Data Structures & Algorithms | Machine Learning
