@@ -4,7 +4,7 @@
 
 ## About Me
 
-👋 Hi! I'm **Chennuri Chandrasekhar**, a 3rd-year AIML student at Vishnu Institute of Technology.
+👋 Hi! I'm **Chennuri Chandrasekhar**, AIML student at Vishnu Institute of Technology.
 🚀 Actively building scalable applications and exploring data systems.
 📚 Cybersecurity | Data Structures & Algorithms | Machine Learning
 
