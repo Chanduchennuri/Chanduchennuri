@@ -9,7 +9,7 @@
 
 <br/>
 
-<img src="./assets/neofetch-card_gray.png" width="850"/>
+<img src="./assets/neofetch-card.png" width="850"/>
 
 </div>
 
