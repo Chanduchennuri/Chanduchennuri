@@ -1,34 +1,22 @@
-<div align="center">
+<img align="left" width="190" src="./assets/ascii-donut-portrait.png" alt="ASCII portrait" style="margin-right:20px;"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07080a,100:0e1013&height=200&section=header&text=Chennuri%20Chandrasekhar&fontSize=42&fontColor=48e0d8&fontAlignY=40&desc=AI/ML%20Engineer%20%E2%80%A2%20Agentic%20AI%20%E2%80%A2%20Data%20Engineering&descAlignY=58&descSize=16&descColor=7c8590&animation=fadeIn" width="100%"/>
+## Chennuri Chandrasekhar
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=48E0D8&center=true&vCenter=true&width=700&height=50&lines=Building+intelligent+systems.;Exploring+Agentic+AI+%26+LLM+Engineering.;Turning+ideas+into+working+systems.;Inspired+by+JARVIS+%E2%80%A2+Driven+by+Engineering." alt="Typing Animation" />
+**AI/ML Engineer · Agentic AI · Data Engineering**
 
-<br/>
+I'm an Artificial Intelligence & Machine Learning student building practical intelligent systems. Started in software development and data systems, moved deeper into AI/ML, LLM applications, and Agentic AI. Currently focused on how AI systems move beyond simple conversations — how they reason, use tools, access data, and perform useful tasks.
 
-<a href="https://github.com/Chanduchennuri"><img src="https://img.shields.io/badge/GitHub-Chanduchennuri-0e1013?style=for-the-badge&logo=github&logoColor=48E0D8"/></a>
-<a href="https://www.linkedin.com/in/chandrashekhar-ch-00b913229/"><img src="https://img.shields.io/badge/LinkedIn-Chandrasekhar-0e1013?style=for-the-badge&logo=linkedin&logoColor=48E0D8"/></a>
-<a href="mailto:ch.chandrasekhar781@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0e1013?style=for-the-badge&logo=gmail&logoColor=48E0D8"/></a>
+`DATA` → `BACKEND` → `MACHINE LEARNING` → `LLMs` → `AGENTS` → `PRODUCT`
 
-<img src="https://komarev.com/ghpvc/?username=Chanduchennuri&style=for-the-badge&color=0e1013&label=PROFILE+VIEWS" alt="profile views"/>
+[![GitHub](https://img.shields.io/badge/GitHub-Chanduchennuri-0e1013?style=flat-square&logo=github&logoColor=48E0D8)](https://github.com/Chanduchennuri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chandrasekhar-0e1013?style=flat-square&logo=linkedin&logoColor=48E0D8)](https://www.linkedin.com/in/chandrashekhar-ch-00b913229/)
+[![Email](https://img.shields.io/badge/Email-Contact-0e1013?style=flat-square&logo=gmail&logoColor=48E0D8)](mailto:ch.chandrasekhar781@gmail.com)
 
-</div>
+<br clear="left"/>
 
-<br/>
+---
 
-### `> About_me`
-
-I'm Chennuri Chandrasekhar, an Artificial Intelligence & Machine Learning student interested in building practical intelligent systems.
-
-My engineering journey started around software development and data systems and gradually moved deeper into AI/ML, LLM applications, and Agentic AI. I'm currently focused on understanding how AI systems move beyond simple conversations — how they reason, use tools, access data, and perform useful tasks.
-
-```
-DATA → BACKEND → MACHINE LEARNING → LLMs → AGENTS → PRODUCT
-```
-
-<br/>
-
-### `> Current_focus`
+### `> current_focus`
 
 | | |
 |---|---|
@@ -41,7 +29,7 @@ DATA → BACKEND → MACHINE LEARNING → LLMs → AGENTS → PRODUCT
 
 <br/>
 
-### `> Technical_skills`
+### `> technical_skills`
 
 **Languages**
 
@@ -83,7 +71,7 @@ DATA → BACKEND → MACHINE LEARNING → LLMs → AGENTS → PRODUCT
 
 <br/>
 
-### `> Experience`
+### `> experience`
 
 **Software Intern — Data Analytics**
 `KRIT Services` · Jun 2025 — Oct 2025
@@ -100,7 +88,7 @@ ADF ──▶ Pipeline ──▶ dbt ──▶ Snowflake ──▶ Analytics
 
 <br/>
 
-### `> Selected_projects`
+### `> selected_projects`
 
 <table>
 <tr>
@@ -153,7 +141,7 @@ An AI-powered developer environment inspired by modern code editors — source c
 
 <br/>
 
-### `> Agentic_ai`
+### `> agentic_ai`
 
 One of my biggest areas of interest is understanding what happens **after** the LLM response.
 
@@ -175,7 +163,7 @@ The objective is to build systems that can **understand → reason → use tools
 
 <br/>
 
-### `> Education`
+### `> education`
 
 **Vishnu Institute of Technology**
 B.Tech — Artificial Intelligence & Machine Learning · 2024 — 2027
@@ -185,7 +173,7 @@ CGPA: **8.8**
 
 <br/>
 
-### `> Certifications`
+### `> certifications`
 
 - TCS iON Career Edge — Young Professional
 - NVIDIA Deep Learning Workshop
@@ -194,7 +182,7 @@ CGPA: **8.8**
 
 <br/>
 
-### `> Engineering_interests`
+### `> engineering_interests`
 
 | | | |
 |---|---|---|
@@ -205,7 +193,7 @@ CGPA: **8.8**
 
 <br/>
 
-### `> Beyond_code`
+### `> beyond_code`
 
 I've always been fascinated by JARVIS — not simply as a fictional AI assistant, but as an idea of what an intelligent system could become.
 
@@ -231,7 +219,7 @@ That idea drives my interest in **AI × Software Engineering × Automation**.
 
 <br/>
 
-### `> Github_activity`
+### `> github_activity`
 
 <div align="center">
 
@@ -240,7 +228,7 @@ That idea drives my interest in **AI × Software Engineering × Automation**.
 
 </div>
 
-### `> Contribution_graph`
+### `> contribution_graph`
 
 <div align="center">
 
@@ -254,7 +242,7 @@ That idea drives my interest in **AI × Software Engineering × Automation**.
 
 <br/>
 
-### `> Currently_learning`
+### `> currently_learning`
 
 ```
 AI / ML            ████████████████████░░  90%
@@ -266,17 +254,15 @@ System Design       ████████████░░░░░░░░
 
 <br/>
 
-### `> Let's_connect`
+### `> let's_connect`
 
 I'm interested in AI/ML, Agentic AI, LLM Engineering, Data Engineering, and Software Engineering. If you're building something interesting, working on an open-source project, or exploring intelligent systems — let's connect.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/chandrashekhar-ch-00b913229/"><img src="https://img.shields.io/badge/LINKEDIN-0e1013?style=for-the-badge&logo=linkedin&logoColor=48E0D8"/></a>
-<a href="https://github.com/Chanduchennuri"><img src="https://img.shields.io/badge/GITHUB-0e1013?style=for-the-badge&logo=github&logoColor=48E0D8"/></a>
-<a href="mailto:ch.chandrasekhar781@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0e1013?style=for-the-badge&logo=gmail&logoColor=48E0D8"/></a>
-
-<br/><br/>
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0e1013?style=for-the-badge&logo=linkedin&logoColor=48E0D8)](https://www.linkedin.com/in/chandrashekhar-ch-00b913229/)
+[![GitHub](https://img.shields.io/badge/GITHUB-0e1013?style=for-the-badge&logo=github&logoColor=48E0D8)](https://github.com/Chanduchennuri)
+[![Email](https://img.shields.io/badge/EMAIL-0e1013?style=for-the-badge&logo=gmail&logoColor=48E0D8)](mailto:ch.chandrasekhar781@gmail.com)
 
 **BUILD SOMETHING INTELLIGENT. MAKE IT USEFUL.**
 *— Chandra Sekhar*
@@ -284,5 +270,3 @@ I'm interested in AI/ML, Agentic AI, LLM Engineering, Data Engineering, and Soft
 <sub>Engineering journal • AI • Software • Data • Systems • Experiments</sub>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e1013,100:07080a&height=100&section=footer" width="100%"/>
