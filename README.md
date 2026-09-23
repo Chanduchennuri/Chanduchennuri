@@ -1,20 +1,31 @@
 <img align="left" width="190" src="./assets/ascii-donut-portrait.png" alt="ASCII portrait" style="margin-right:20px;"/>
 
-## Chennuri Chandrasekhar
+<div align="center">
 
-**AI/ML Engineer · Agentic AI · Data Engineering**
-
-I'm an Artificial Intelligence & Machine Learning student building practical intelligent systems. Started in software development and data systems, moved deeper into AI/ML, LLM applications, and Agentic AI. Currently focused on how AI systems move beyond simple conversations — how they reason, use tools, access data, and perform useful tasks.
-
-`DATA` → `BACKEND` → `MACHINE LEARNING` → `LLMs` → `AGENTS` → `PRODUCT`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=48E0D8&center=true&vCenter=true&width=700&height=50&lines=Building+intelligent+systems.;Exploring+Agentic+AI+%26+LLM+Engineering.;Turning+ideas+into+working+systems.;Inspired+by+JARVIS+%E2%80%A2+Driven+by+Engineering." alt="Typing Animation" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-Chanduchennuri-0e1013?style=flat-square&logo=github&logoColor=48E0D8)](https://github.com/Chanduchennuri)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Chandrasekhar-0e1013?style=flat-square&logo=linkedin&logoColor=48E0D8)](https://www.linkedin.com/in/chandrashekhar-ch-00b913229/)
 [![Email](https://img.shields.io/badge/Email-Contact-0e1013?style=flat-square&logo=gmail&logoColor=48E0D8)](mailto:ch.chandrasekhar781@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=Chanduchennuri&style=flat-square&color=0e1013&label=views)
 
-<br clear="left"/>
+<br/>
 
----
+<img src="./assets/neofetch-card.png" width="720"/>
+
+</div>
+
+<br/>
+
+### `> about_me`
+
+I'm Chennuri Chandrasekhar, an Artificial Intelligence & Machine Learning student interested in building practical intelligent systems.
+
+My engineering journey started around software development and data systems and gradually moved deeper into AI/ML, LLM applications, and Agentic AI. I'm currently focused on understanding how AI systems move beyond simple conversations — how they reason, use tools, access data, and perform useful tasks.
+
+`DATA` → `BACKEND` → `MACHINE LEARNING` → `LLMs` → `AGENTS` → `PRODUCT`
+
+<br/>
 
 ### `> current_focus`
 
@@ -269,4 +280,5 @@ I'm interested in AI/ML, Agentic AI, LLM Engineering, Data Engineering, and Soft
 
 <sub>Engineering journal • AI • Software • Data • Systems • Experiments</sub>
 
+</div>
 </div>
