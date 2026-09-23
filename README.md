@@ -16,7 +16,7 @@
 
 <br/>
 
-### `> about_me`
+### `> About_me`
 
 I'm Chennuri Chandrasekhar, an Artificial Intelligence & Machine Learning student interested in building practical intelligent systems.
 
@@ -28,7 +28,7 @@ DATA → BACKEND → MACHINE LEARNING → LLMs → AGENTS → PRODUCT
 
 <br/>
 
-### `> current_focus`
+### `> Current_focus`
 
 | | |
 |---|---|
@@ -41,7 +41,7 @@ DATA → BACKEND → MACHINE LEARNING → LLMs → AGENTS → PRODUCT
 
 <br/>
 
-### `> technical_skills`
+### `> Technical_skills`
 
 **Languages**
 
@@ -83,7 +83,7 @@ DATA → BACKEND → MACHINE LEARNING → LLMs → AGENTS → PRODUCT
 
 <br/>
 
-### `> experience`
+### `> Experience`
 
 **Software Intern — Data Analytics**
 `KRIT Services` · Jun 2025 — Oct 2025
@@ -100,7 +100,7 @@ ADF ──▶ Pipeline ──▶ dbt ──▶ Snowflake ──▶ Analytics
 
 <br/>
 
-### `> selected_projects`
+### `> Selected_projects`
 
 <table>
 <tr>
@@ -153,7 +153,7 @@ An AI-powered developer environment inspired by modern code editors — source c
 
 <br/>
 
-### `> agentic_ai`
+### `> Agentic_ai`
 
 One of my biggest areas of interest is understanding what happens **after** the LLM response.
 
@@ -175,7 +175,7 @@ The objective is to build systems that can **understand → reason → use tools
 
 <br/>
 
-### `> education`
+### `> Education`
 
 **Vishnu Institute of Technology**
 B.Tech — Artificial Intelligence & Machine Learning · 2024 — 2027
@@ -185,7 +185,7 @@ CGPA: **8.8**
 
 <br/>
 
-### `> certifications`
+### `> Certifications`
 
 - TCS iON Career Edge — Young Professional
 - NVIDIA Deep Learning Workshop
@@ -194,7 +194,7 @@ CGPA: **8.8**
 
 <br/>
 
-### `> engineering_interests`
+### `> Engineering_interests`
 
 | | | |
 |---|---|---|
@@ -205,7 +205,7 @@ CGPA: **8.8**
 
 <br/>
 
-### `> beyond_code`
+### `> Beyond_code`
 
 I've always been fascinated by JARVIS — not simply as a fictional AI assistant, but as an idea of what an intelligent system could become.
 
@@ -231,7 +231,7 @@ That idea drives my interest in **AI × Software Engineering × Automation**.
 
 <br/>
 
-### `> github_activity`
+### `> Github_activity`
 
 <div align="center">
 
@@ -240,7 +240,7 @@ That idea drives my interest in **AI × Software Engineering × Automation**.
 
 </div>
 
-### `> contribution_graph`
+### `> Contribution_graph`
 
 <div align="center">
 
@@ -254,7 +254,7 @@ That idea drives my interest in **AI × Software Engineering × Automation**.
 
 <br/>
 
-### `> currently_learning`
+### `> Currently_learning`
 
 ```
 AI / ML            ████████████████████░░  90%
@@ -266,7 +266,7 @@ System Design       ████████████░░░░░░░░
 
 <br/>
 
-### `> let's_connect`
+### `> Let's_connect`
 
 I'm interested in AI/ML, Agentic AI, LLM Engineering, Data Engineering, and Software Engineering. If you're building something interesting, working on an open-source project, or exploring intelligent systems — let's connect.
 
