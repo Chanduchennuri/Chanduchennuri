@@ -1,5 +1,3 @@
-<img align="left" width="190" src="./assets/ascii-donut-portrait.png" alt="ASCII portrait" style="margin-right:20px;"/>
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=48E0D8&center=true&vCenter=true&width=700&height=50&lines=Building+intelligent+systems.;Exploring+Agentic+AI+%26+LLM+Engineering.;Turning+ideas+into+working+systems.;Inspired+by+JARVIS+%E2%80%A2+Driven+by+Engineering." alt="Typing Animation" />
@@ -11,12 +9,12 @@
 
 <br/>
 
-<img src="./assets/neofetch-card.png" width="720"/>
+<img src="./assets/neofetch-card.png" width="850"/>
 
 </div>
 
 <br/>
-<br/>
+
 ### `> about_me`
 
 I'm Chennuri Chandrasekhar, an Artificial Intelligence & Machine Learning student interested in building practical intelligent systems.
@@ -280,5 +278,4 @@ I'm interested in AI/ML, Agentic AI, LLM Engineering, Data Engineering, and Soft
 
 <sub>Engineering journal • AI • Software • Data • Systems • Experiments</sub>
 
-</div>
 </div>
